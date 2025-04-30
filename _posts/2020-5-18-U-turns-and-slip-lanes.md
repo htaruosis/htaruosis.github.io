@@ -95,7 +95,7 @@ Digging deeper into the regulations, [Reg 67](http://classic.austlii.edu.au/au/l
 
 The examples above all have *U-turn must give way* signs at locations where slip lanes are present, not conforming with the VicRoads TEM. This could indicate that the community has a poor understanding of give way rules when U-turning, and where these signs are not displayed, there may be high non-compliance increasing the likelihood of an incident occurring. 
 
-If these signs are needed to enforce a rule which otherwise would have been ignored, perhaps the rules are not widely understood, confusing or impracticable, and in need of change.
+If these signs are needed to enforce a rule which otherwise would have been ignored, perhaps the rules are not widely understood or confusing, and are in need of change.
 
 ##### Some more interesting cases
 
@@ -113,7 +113,7 @@ In the examples above, the slip lanes are around 20 metres away from the interse
 
 ### Further reading
 
-  * Download the full copy of the [Road Safety Road Rules](https://www.legislation.vic.gov.au/in-force/statutory-rules/road-safety-road-rules-2017/008). Part 4 Division 4 relates to U-turns.
+  * Download the full copy of the [Road Safety Road Rules](https://www.legislation.vic.gov.au/in-force/statutory-rules/road-safety-road-rules-2017/). Part 4 Division 4 relates to U-turns.
   * [Policy and Application for 'U-turn Permitted' Signs at Traffic Signal Controlled Intersections](https://www.mainroads.wa.gov.au/BuildingRoads/StandardsTechnical/RoadandTrafficEngineering/TrafficManagement/TrafficSignals/Pages/Policy_Application_Guidelines_for_U_turn_Permitted%20Signs.aspx) from Main Roads WA.
   * Discussion on Whirlpool on this very topic. [Thread 1](https://forums.whirlpool.net.au/archive/1802100), [Thread 2](https://forums.whirlpool.net.au/archive/2380303)
   * [Should U-turns be permitted at signalised intersections?](http://casr.adelaide.edu.au/publications/researchreports/CASR017.pdf) -- report on changes to U-turn laws in South Australia
